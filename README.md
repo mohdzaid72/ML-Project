@@ -106,9 +106,9 @@ streamlit run app.py
 
 ## 🧑‍💻 Author
 
-**Ayaan Turk**  
+**Mohd Zaid**  
 📧 mohdzaidonly@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/your-profile) | 🔗 [GitHub](https://github.com/your-username)  
+🔗 [LinkedIn](https://www.linkedin.com/in/mohd-zaid-5b6452233/) | 🔗 [GitHub](https://github.com/mohdzaid72)  
 
 ---
 
